@@ -1,2 +1,2 @@
 # Burger-website Link - 
-# https://burgur-eat.netlify.app/
+# https://burger-wala.netlify.app/
